@@ -1,0 +1,2 @@
+# foundry-worlds
+This repo exists as a way for me store my world data external to the running foundry server. This way I can play around with it without a remote server running and maybe even modify things not with foundry.
