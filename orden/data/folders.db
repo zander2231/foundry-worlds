@@ -1,0 +1,38 @@
+{"_id":"9kMLEDFmyKvWh9x5","name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":700000,"color":null,"flags":{}}
+{"_id":"CobJHdHHv01D6TpT","name":"Castle","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"_id":"DfDNkc9hvaDFVngR","name":"Buildings","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Tabletop RPG Music","type":"Playlist","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"EHld9wBJjNRPkM5H"}
+{"_id":"OAOnYQ3HiOy6QeWd","name":"Monsters (SRD)","type":"Actor","parent":null,"sorting":"a","sort":600000,"flags":{}}
+{"name":"Wind Wagon","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Opn9JNT9ByGqnR9Y"}
+{"name":"Iron Brotherhood","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"TvaURVuhSAfh0oCl"}
+{"name":"Effects","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"eG6tYqg9ToRWVDcR"}
+{"name":"Caeora's Maps","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"hhD2fecwCzqH0CkX"}
+{"name":"Cave","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"hrETE1DchTF0FfvX"}
+{"name":"Dungeon","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"j8EnliV953YlABnR"}
+{"name":"Fog's Edge","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"jbFYvwSnpF4utEM7"}
+{"name":"Goals","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"mQA8PDpe5JEwO1rg"}
+{"name":"Levels Sample Scenes","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"nRKJWarxVdjZjVPr"}
+{"_id":"pvBjGHeULsVp8LHg","name":"Baileywiki Maps","type":"Actor","parent":null,"sorting":"a","sort":200000,"flags":{}}
+{"_id":"qDShE3eU7nSjZIJN","name":"Power Actors","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":"","flags":{}}
+{"_id":"qS8PUrvsDNNqtDKM","name":"Player Characters","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":"","flags":{}}
+{"_id":"wBJfPKIEZQJqgyWg","name":"Vehicles","type":"Actor","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"Nature","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wZgEi7BVXvPFYsJJ"}
+{"_id":"9kMLEDFmyKvWh9x5","name":"NPCs","type":"Actor","sorting":"a","sort":700000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"CobJHdHHv01D6TpT","name":"Castle","type":"Actor","sorting":"a","sort":300000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"DfDNkc9hvaDFVngR","name":"Buildings","type":"Actor","sorting":"a","sort":400000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Tabletop RPG Music","type":"Playlist","sorting":"a","sort":0,"flags":{},"_id":"EHld9wBJjNRPkM5H","folder":null,"description":"","color":null,"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"OAOnYQ3HiOy6QeWd","name":"Monsters (SRD)","type":"Actor","sorting":"a","sort":600000,"flags":{},"folder":null,"description":"","color":null,"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Wind Wagon","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Opn9JNT9ByGqnR9Y","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Iron Brotherhood","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TvaURVuhSAfh0oCl","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Effects","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"eG6tYqg9ToRWVDcR","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Caeora's Maps","type":"Scene","sorting":"a","sort":0,"flags":{},"_id":"hhD2fecwCzqH0CkX","folder":null,"description":"","color":null,"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Cave","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"hrETE1DchTF0FfvX","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Dungeon","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"j8EnliV953YlABnR","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Fog's Edge","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"jbFYvwSnpF4utEM7","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Goals","type":"JournalEntry","sorting":"a","sort":0,"color":null,"flags":{},"_id":"mQA8PDpe5JEwO1rg","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Levels Sample Scenes","type":"Scene","sorting":"a","sort":0,"flags":{},"_id":"nRKJWarxVdjZjVPr","folder":null,"description":"","color":null,"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"pvBjGHeULsVp8LHg","name":"Baileywiki Maps","type":"Actor","sorting":"a","sort":200000,"flags":{},"folder":null,"description":"","color":null,"_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"qDShE3eU7nSjZIJN","name":"Power Actors","type":"Actor","sorting":"a","sort":100000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"qS8PUrvsDNNqtDKM","name":"Player Characters","type":"Actor","sorting":"a","sort":500000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"_id":"wBJfPKIEZQJqgyWg","name":"Vehicles","type":"Actor","sorting":"a","sort":800000,"color":null,"flags":{},"folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}
+{"name":"Nature","type":"Actor","sorting":"a","sort":0,"color":null,"flags":{},"_id":"wZgEi7BVXvPFYsJJ","folder":null,"description":"","_stats":{"systemId":null,"systemVersion":null,"coreVersion":null,"createdTime":null,"modifiedTime":null,"lastModifiedBy":null}}

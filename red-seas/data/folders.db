@@ -1,0 +1,9 @@
+{"_id":"9EQIQsVDT1FO4bPc","name":"Starter Heroes","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"Caeora's Tokens","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"BQDLzMPq0PBzeok0"}
+{"name":"Scenes (Milby's Maps Public Module)","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a","_id":"NLdzsjNo9hG1riCM"}
+{"_id":"RxA1vmCkPlJ6CSDn","name":"Crew of the Amber Dream","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"UzoOFJIexdNBFFgV","name":"DDB Monsters","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"Red Seas","type":"Actor","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"WsKvr35XjvodAYpV"}
+{"_id":"dJXqD83v8JObzaBb","name":"Monsters (SRD)","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a"}
+{"name":"Amber Dream","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"khyG0QcELyxznthU"}
+{"_id":"nzYQgnWoZ44s6Mku","name":"Actors (Milby's Maps Public Module)","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a"}

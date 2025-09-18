@@ -1,14 +1,108 @@
 {
   "title": "Orden",
+  "description": "<p>It is the 52nd year of the Age of Man. 562 years since the fall of the Caelian Empire and 53 years since the death of the last true King. </p>\n<p> </p>\n<p>Good King Ohmund took the throne over 120 years ago and yet people still whisper of his reign with a mixture of hope and longing. The eight decades of his rule saw the unification of the Duchies and the forging of one rule of law. He and his wizard Vitae created the Dragonknights, living breathing symbols of King Ohmund’s ideals, to travel the land and uphold his Law. Highborn or low none were beyond their justice or below their protection.</p>\n<p> </p>\n<p>In his 75th year the Good King Ohmund died. Rumors abound of the exact circumstances. Some say that Mandrake, Captain of the Brass Dragonflight, sold King Ohmund’s plans and weaknesses to Ajax the Invincible. Others say that the King died protecting the realm from powerful forces that sundered Castle Ohmund but might have done far worse had the King not sacrificed himself. Regardless, in the wake of the King’s death Ajax, using the power of an ancient floating fortress, scoured the land in what is now known as The 100 Days of Fire. After such a display the Dukes were only too happy to bend the knee to their new Overlord. </p>\n<p> </p>\n<p>It is now the 52nd year of Ajax rule, such as it is. The Duchies: Tor, Bedegar, Rijou, Dalrath and Pertine are largely left to their own devices. King Ohmund’s roads still allow for commerce and trading but each year sees the Wodes encroach a little more and the bandits become a little bolder. The Dukes maneuver and fawn for the favor of Ajax all the while paying his taxes and spending little if anything on the needs of their own people.</p>\n<p> </p>\n<p>As for the non-human peoples of Vasloria; the Celestials have retreated ever more into their ancient forests and it is said that they cavort with all manner of strange creatures in the Wodes. The Ordlin are a rare sight these days. Those that are found usually trace their lives in the human lands to before the reign of King Ohmund. There is a dark rumor that the Ordlin have become slavers, abducting people for some dark, unknown purpose. The primitive Gol continue to be a thorn in the side of civilization. Though, when someone mentions the Gol it is unclear if they refer to a tribe of humans, urq or barrowight. Likely they don’t know or care. As for the Dragonknights, during the time of King Ohmund it was well known that there were many rookeries scattered across the kingdom. However, no one knows whether Ajax wiped them out or if perhaps a few might have survived; only occasional Dragonknights are still seen and they refuse to speak of such matters.</p>\n<p> </p>\n<p>After The Hundred Days of Fire Ajax moved his flying fortress to the city of Blackbottom, now called Orison. Orison is the heart of Ajax burgeoning empire. The duchies of Bedagar, Tor and Rijou abut Orison, which has become something of a duchy itself. Strange seemingly impossible rumors come out of Orison. Huge ship like wagons that haul resources and materials to and from the city. Light without flame that illuminates the streets all night long, making the city shine like a beacon in the dark. And Ajax flying fortress itself which hangs motionless above all.</p>\n<p> </p>\n<p>While many would consider the horrors visited upon the land to be enough to maintain power, The Overlord and his Hawklords disagree. In ages past a hawk lord was simply a man of noble bearing who raised and flew giant birds, not just hawks. These days it is very rare for any noble to fly their own hawk as an individual that shows skill at flying is drafted into the Overlords flight corps. The people of Vasloria know to show all deference and respect to a Hawklord as they carry the full weight of the Overlord’s power.</p>\n<p> </p>\n<p>The Overlord’s propagandists would have you believe that we are entering a new era of enlightenment. That the intelligence and wisdom of Man will burn away the darkness and that the Age of Men shall forever more subjugate the wilderness. Ensuring that the strength of the land will only be used in service of its people. The people who live with the dark forests just outside their doorstep or beyond their city walls often have a different opinion. Whether this era will be one of law or chaos only time will tell.</p>\n<p> </p>",
+  "version": "1.0.0",
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-orden-spells",
+      "path": "packs/ddb-orden-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-orden-items",
+      "path": "packs/ddb-orden-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-orden-monsters",
+      "path": "packs/ddb-orden-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-orden-feats",
+      "path": "packs/ddb-orden-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-orden-class-features",
+      "path": "packs/ddb-orden-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-orden-classes",
+      "path": "packs/ddb-orden-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-orden-racial-traits",
+      "path": "packs/ddb-orden-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-orden-races",
+      "path": "packs/ddb-orden-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-orden-override",
+      "path": "packs/ddb-orden-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-orden-tables",
+      "path": "packs/ddb-orden-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "type": "RollTable",
+      "flags": {}
+    }
+  ],
+  "system": "dnd5e",
+  "background": "https://foundry-adb-vtt-assets.s3.us-west-2.amazonaws.com/strongholds-followers-2.jpg",
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.6",
   "id": "orden",
-  "system": "draw-steel",
-  "coreVersion": "13.348",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "systemVersion": "0.8.0",
-  "lastPlayed": "Thu Sep 11 2025 04:27:03 GMT+0000 (Coordinated Universal Time)",
-  "description": "",
-  "flags": {}
+    "verified": "10.291",
+    "minimum": "10"
+  }
 }

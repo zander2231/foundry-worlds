@@ -1,0 +1,21 @@
+{"key":"ddb-importer.cobalt-cookie-local","value":"false","_id":"4M1RlydnnG6nESYv"}
+{"_id":"4PRy5GIeNa4aRJnS","key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"milbys-maps-free-module\":true,\"dd-import\":true,\"npcgen\":true,\"vtta-tokenizer\":true,\"tabletop-rpg-music\":true,\"caeora-maps-tokens-assets\":true,\"milbys-maps-free\":false}"}
+{"key":"ddb-importer.entity-spell-compendium","value":"\"world.ddb-red-seas-spells\"","_id":"58BYIz3OGjMRnFji"}
+{"_id":"B1c9tAMlx1PUILxc","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[2,3,4],\"DRAWING_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}
+{"key":"ddb-importer.patreon-tier","value":"null","_id":"Cqc4d6hunGB6b9K8"}
+{"_id":"IJCzELeveQLWL7dj","key":"dd-import.importSettings","value":"{\"source\":\"s3\",\"extension\":\"png\",\"bucket\":\"foundry-adb-vtt-assets\",\"region\":\"us-west-2\",\"path\":\"worlds/red-seas\",\"offset\":0.1,\"fidelity\":1,\"multiImageMode\":\"g\",\"webpConversion\":true,\"wallsAroundFiles\":true}"}
+{"key":"ddb-importer.entity-feature-compendium","value":"\"world.ddb-red-seas-class-features\"","_id":"PDM71BteZXXSobke"}
+{"key":"ddb-importer.cobalt-cookie","value":"\"https://foundryvtt.s3.amazonaws.com/releases/0.7.9/foundryvtt-0.7.9.zip?AWSAccessKeyId=AKIAISZIIE42YLQZKLEQ&Signature=%2FeJEBrnA26aNjMYv2RDywo9ni2g%3D&Expires=1613773895\"","_id":"RJw7RZVquClD1ztl"}
+{"key":"ddb-importer.beta-key","value":"\"\"","_id":"UHeX2dU1umqPy4l7"}
+{"key":"ddb-importer.entity-monster-compendium","value":"\"world.ddb-red-seas-monsters\"","_id":"ULZzRssgOI07hOCY"}
+{"key":"ddb-importer.entity-race-compendium","value":"\"world.ddb-red-seas-races\"","_id":"UofUMozqJiCMKvGJ"}
+{"key":"ddb-importer.entity-trait-compendium","value":"\"world.ddb-red-seas-racial-traits\"","_id":"X1qZfCHKOAnTTCvs"}
+{"key":"ddb-importer.entity-class-compendium","value":"\"world.ddb-red-seas-classes\"","_id":"XAeZEopQ00omfAUg"}
+{"key":"ddb-importer.image-upload-directory","value":"\"[s3:foundry-adb-vtt-assets] imported/images\"","_id":"ZfNN5LObzHYyV9AG"}
+{"key":"vtta-tokenizer.image-upload-directory","value":"null","_id":"bM8562kBf9GzonFh"}
+{"key":"core.combatTrackerConfig","value":"{\"resource\":\"attributes.ac.value\",\"skipDefeated\":false}","_id":"dB98vkMs8eWmrgK0"}
+{"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-red-seas-feats\"","_id":"fGwvOCsyzEFRkyo5"}
+{"_id":"i8w4Poz3cEm8YiSo","key":"core.time","value":"222"}
+{"key":"ddb-importer.campaign-id","value":"\"\"","_id":"jDchgU1HM2vSRDjR"}
+{"key":"caeora-maps-tokens-assets.replaceArtwork","value":"true","_id":"nqt6P2lpzZm1yEdz"}
+{"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-red-seas-items\"","_id":"umJZYzTo2HbWjYUu"}

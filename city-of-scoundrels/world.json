@@ -1,0 +1,22 @@
+{
+  "name": "city-of-scoundrels",
+  "title": "City of Scoundrels",
+  "description": "<p>A thousand years ago this was a land of beauty and magic. Then came the cataclysm that blotted out the sun and ripped open the gates to the land of the Dead. </p>\n<p> </p>\n<p>The city of Doskvol is a metropolis of factories and refineries protected by its crackling lightning towers fueled by marvelous electroplasm. Outside the walls is a wasteland of vengeful spirits. Inside is a wretched hive of scum and villainy, intrigue and corruption. Life is cheap in a city ruled by death.</p>\n<p> </p>\n<p>The sun is gone. The only thing that shines in Doskvol are the Blades in the Dark.</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "blades-in-the-dark",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "https://foundry-adb-vtt-assets.s3.us-west-2.amazonaws.com/Blades%2Bin%2Bthe%2BDark%2BDark%2Bbackdrop.jpg",
+  "coreVersion": "9.269",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "3.17"
+}

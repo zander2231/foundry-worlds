@@ -1,0 +1,11 @@
+{"name":"Associates","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"3WGfLXLeg9EEGFkx"}
+{"name":"Enemies","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"At7GU6dlR2uv41Kv"}
+{"_id":"GHzkNUY41JAYHOXj","name":"Score Clocks","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Entanglements Journals","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"LT1XPwWtlZBBZApi"}
+{"name":"Vices","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"OqHKFbzBLLuAtT4R"}
+{"name":"Characters","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"PKGSKou3EUl316dp"}
+{"name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"R1vwUOlSK7jrh7lC"}
+{"_id":"cLU0FLkvTy8DMDpW","name":"Faction Clocks","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Assets","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"k2z4vQpqc5Dijnk8"}
+{"name":"Entanglements","type":"RollTable","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"naliz856PlwctIoC"}
+{"name":"Crew Types","type":"Item","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"xg6g04COW4qUomwn"}
