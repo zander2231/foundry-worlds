@@ -1,0 +1,5 @@
+2025/09/19-01:51:06.819617 77632a3fc640 Delete type=3 #1
+2025/09/19-02:00:12.290316 7760a9bef640 Level-0 table #5: started
+2025/09/19-02:00:12.294975 7760a9bef640 Level-0 table #5: 4437 bytes OK
+2025/09/19-02:00:12.299416 7760a9bef640 Delete type=0 #3
+2025/09/19-02:00:12.299677 7760a9bef640 Manual compaction at level-0 from '!users!FRPkjFZtLWCsQjx6' @ 72057594037927935 : 1 .. '!users!rZzyGCvPSpEbHDKV' @ 0 : 0; will stop at (end)

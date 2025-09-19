@@ -6,103 +6,136 @@
     {
       "label": "DDB Spells",
       "name": "ddb-orden-spells",
-      "path": "packs/ddb-orden-spells.db",
+      "path": "packs/ddb-orden-spells",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Items",
       "name": "ddb-orden-items",
-      "path": "packs/ddb-orden-items.db",
+      "path": "packs/ddb-orden-items",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Monsters",
       "name": "ddb-orden-monsters",
-      "path": "packs/ddb-orden-monsters.db",
+      "path": "packs/ddb-orden-monsters",
       "system": "dnd5e",
-      "private": false,
       "type": "Actor",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Feats",
       "name": "ddb-orden-feats",
-      "path": "packs/ddb-orden-feats.db",
+      "path": "packs/ddb-orden-feats",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Class Features",
       "name": "ddb-orden-class-features",
-      "path": "packs/ddb-orden-class-features.db",
+      "path": "packs/ddb-orden-class-features",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Classes",
       "name": "ddb-orden-classes",
-      "path": "packs/ddb-orden-classes.db",
+      "path": "packs/ddb-orden-classes",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Racial Traits",
       "name": "ddb-orden-racial-traits",
-      "path": "packs/ddb-orden-racial-traits.db",
+      "path": "packs/ddb-orden-racial-traits",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Races",
       "name": "ddb-orden-races",
-      "path": "packs/ddb-orden-races.db",
+      "path": "packs/ddb-orden-races",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Override",
       "name": "ddb-orden-override",
-      "path": "packs/ddb-orden-override.db",
+      "path": "packs/ddb-orden-override",
       "system": "dnd5e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "DDB Tables",
       "name": "ddb-orden-tables",
-      "path": "packs/ddb-orden-tables.db",
+      "path": "packs/ddb-orden-tables",
       "system": "dnd5e",
-      "private": false,
       "type": "RollTable",
-      "flags": {}
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "system": "dnd5e",
   "background": "https://foundry-adb-vtt-assets.s3.us-west-2.amazonaws.com/strongholds-followers-2.jpg",
-  "coreVersion": "10.291",
+  "coreVersion": "13.348",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "1.5.6",
+  "systemVersion": "5.1.8",
   "id": "orden",
   "compatibility": {
-    "verified": "10.291",
-    "minimum": "10"
-  }
+    "verified": "13.348",
+    "minimum": "13"
+  },
+  "lastPlayed": "Fri Sep 19 2025 02:19:34 GMT+0000 (Coordinated Universal Time)",
+  "playtime": 1541,
+  "flags": {}
 }
