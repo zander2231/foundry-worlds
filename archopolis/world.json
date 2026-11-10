@@ -2,13 +2,14 @@
   "title": "Archopolis",
   "id": "archopolis",
   "system": "nimble",
-  "coreVersion": "13.348",
+  "coreVersion": "14.370",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14.370"
   },
-  "systemVersion": "0.1.8",
-  "lastPlayed": "Sun Sep 14 2025 16:36:57 GMT+0000 (Coordinated Universal Time)",
+  "systemVersion": "0.10.0",
+  "lastPlayed": "Tue Nov 10 2026 20:57:43 GMT+0000 (Coordinated Universal Time)",
+  "background": "systems/nimble/assets/banners/manticoreFight.webp",
   "description": "",
   "flags": {}
 }
