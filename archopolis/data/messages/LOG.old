@@ -1,0 +1,7 @@
+2026/11/16-00:14:48.146117 7eba99fee640 Recovering log #7
+2026/11/16-00:14:48.152805 7eba99fee640 Delete type=0 #7
+2026/11/16-00:14:48.152822 7eba99fee640 Delete type=3 #4
+2026/11/16-00:15:29.272969 7eba837fe640 Level-0 table #13: started
+2026/11/16-00:15:29.272981 7eba837fe640 Level-0 table #13: 0 bytes OK
+2026/11/16-00:15:29.276899 7eba837fe640 Delete type=0 #11
+2026/11/16-00:15:29.283768 7eba837fe640 Manual compaction at level-0 from '!messages!mgqcrSCa6bB7ccIm' @ 72057594037927935 : 1 .. '!messages!xlAJudHAPkXlKJz9' @ 0 : 0; will stop at (end)
