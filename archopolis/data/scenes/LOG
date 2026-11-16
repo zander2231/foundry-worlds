@@ -1,1 +1,5 @@
-2025/09/14-16:36:57.643641 7b1199fbe640 Delete type=3 #1
+2026/11/16-00:24:25.581320 7ace4affd640 Recovering log #3
+2026/11/16-00:24:25.581356 7ace4affd640 Level-0 table #5: started
+2026/11/16-00:24:25.584699 7ace4affd640 Level-0 table #5: 2202 bytes OK
+2026/11/16-00:24:25.593435 7ace4affd640 Delete type=0 #3
+2026/11/16-00:24:25.593461 7ace4affd640 Delete type=3 #2
